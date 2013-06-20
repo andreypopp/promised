@@ -1,6 +1,6 @@
 {
   "name": "promised",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "from Node-style callback API to promise API",
   "main": "index.js",
   "dependencies": {
