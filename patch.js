@@ -8,3 +8,5 @@ Object.defineProperty(Object.prototype, 'promised', {
     return promised(this);
   }
 });
+
+module.exports = promised;
